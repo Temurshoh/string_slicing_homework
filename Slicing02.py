@@ -6,4 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[-4:-1]
+    return s[-4:]
+print(main("codeschooluz"))
